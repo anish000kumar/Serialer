@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Serialer/static/css/main.979a2cff.chunk.css",
-    "main.js": "/Serialer/static/js/main.ac569eb0.chunk.js",
-    "main.js.map": "/Serialer/static/js/main.ac569eb0.chunk.js.map",
+    "main.js": "/Serialer/static/js/main.51a775d0.chunk.js",
+    "main.js.map": "/Serialer/static/js/main.51a775d0.chunk.js.map",
     "runtime-main.js": "/Serialer/static/js/runtime-main.04336a1d.js",
     "runtime-main.js.map": "/Serialer/static/js/runtime-main.04336a1d.js.map",
-    "static/js/2.bf44beef.chunk.js": "/Serialer/static/js/2.bf44beef.chunk.js",
-    "static/js/2.bf44beef.chunk.js.map": "/Serialer/static/js/2.bf44beef.chunk.js.map",
+    "static/js/2.4651d952.chunk.js": "/Serialer/static/js/2.4651d952.chunk.js",
+    "static/js/2.4651d952.chunk.js.map": "/Serialer/static/js/2.4651d952.chunk.js.map",
     "index.html": "/Serialer/index.html",
-    "precache-manifest.e6b9dc2a86b8b73da74763d2a6e58773.js": "/Serialer/precache-manifest.e6b9dc2a86b8b73da74763d2a6e58773.js",
+    "precache-manifest.584ef688feb461a0bb7d0e5248a701de.js": "/Serialer/precache-manifest.584ef688feb461a0bb7d0e5248a701de.js",
     "service-worker.js": "/Serialer/service-worker.js",
     "static/css/main.979a2cff.chunk.css.map": "/Serialer/static/css/main.979a2cff.chunk.css.map",
     "static/media/logo.svg": "/Serialer/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.04336a1d.js",
-    "static/js/2.bf44beef.chunk.js",
+    "static/js/2.4651d952.chunk.js",
     "static/css/main.979a2cff.chunk.css",
-    "static/js/main.ac569eb0.chunk.js"
+    "static/js/main.51a775d0.chunk.js"
   ]
 }

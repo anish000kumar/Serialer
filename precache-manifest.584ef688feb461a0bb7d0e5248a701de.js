@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7985bc4efa0dbd476d33a1b1b8e7c4e8",
+    "revision": "7d136bbeb14bc9b826772a23a5befdbd",
     "url": "/Serialer/index.html"
   },
   {
-    "revision": "82c0d30e800504485885",
+    "revision": "c8fc7258a8cde096057b",
     "url": "/Serialer/static/css/main.979a2cff.chunk.css"
   },
   {
-    "revision": "35f16a45c55a40f3deac",
-    "url": "/Serialer/static/js/2.bf44beef.chunk.js"
+    "revision": "24cd1ccb5c51cb4e2a8c",
+    "url": "/Serialer/static/js/2.4651d952.chunk.js"
   },
   {
-    "revision": "82c0d30e800504485885",
-    "url": "/Serialer/static/js/main.ac569eb0.chunk.js"
+    "revision": "c8fc7258a8cde096057b",
+    "url": "/Serialer/static/js/main.51a775d0.chunk.js"
   },
   {
     "revision": "7ea34ea03df4e7bd42e8",
